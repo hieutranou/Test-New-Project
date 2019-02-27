@@ -14,6 +14,8 @@ namespace Test_Winform
         public Form1()
         {
             InitializeComponent();
+            string a;
+            string b;
         }
     }
 }
