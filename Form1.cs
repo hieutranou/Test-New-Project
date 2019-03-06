@@ -23,6 +23,7 @@ namespace Test_Winform
         private void button1_Click(object sender, EventArgs e)
         {
             int a = int.Parse(label1.Text);
+            int b = int.Parse(label1.Text);
         }
     }
 }
