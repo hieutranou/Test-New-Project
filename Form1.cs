@@ -16,6 +16,17 @@ namespace Test_Winform
             InitializeComponent();
             string a;
             string b;
+            //Master change ne
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            if (!string.IsNullOrEmpty(label1.Text
         }
     }
 }
