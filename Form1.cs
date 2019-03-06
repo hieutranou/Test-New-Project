@@ -24,6 +24,7 @@ namespace Test_Winform
         {
             int a = int.Parse(label1.Text);
             int b = int.Parse(label1.Text);
+
         }
     }
 }
